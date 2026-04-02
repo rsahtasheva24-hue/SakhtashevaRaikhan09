@@ -36,13 +36,20 @@
 # print(compressed)
 
 # task 4
-s = input()
+# s = input()
 
-cleaned = s.replace(" ", "").lower()
-is_palindrome = cleaned == cleaned[::-1]
+# cleaned = s.replace(" ", "").lower()
+# is_palindrome = cleaned == cleaned[::-1]
 
-print(is_palindrome)
+# print(is_palindrome)
 
 # task 5
+# s = input()
+# k = int(input())
+
+# k = k % len(s) if len(s) > 0 else 0
+# shifted = s[-k:] + s[:-k] if k != 0 else s
+
+# print(shifted)
 
 
